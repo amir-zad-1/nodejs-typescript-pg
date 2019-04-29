@@ -1,4 +1,4 @@
-Unity Challenge - Backend
+Backend
 
 1. [Nodejs](https://nodejs.org/en/)
 2. [TypeScript](http://www.typescriptlang.org/)
